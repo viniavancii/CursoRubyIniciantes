@@ -33,8 +33,8 @@
     end
 
 
-
     
+
 
     # lista1 = ['Administração Geral','Sociedade, Tecnologia e Inovação','Informática e Negócios','Espanhol I','Inglês I', 'Comunicação e Expressão', 'Matemática Discreta', 'Metodologia da Pesquisa Científico-Tecnológica']
     # lista2 = ['Contabilidade', 'Economia', 'Algoritmos e Programação de Computadores', 'Sistemas de Informação', 'Sistemas Operacionais', 'Espanhol II', 'Inglês II', 'Fundamentos de Cálculo']

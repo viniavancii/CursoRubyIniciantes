@@ -3,11 +3,8 @@ GEM
   specs:
     json (2.5.1)
 
-PLATFORMS
-  x64-mingw32
 
 DEPENDENCIES
   json
 
-BUNDLED WITH
-   2.2.28
+
